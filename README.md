@@ -1,0 +1,1 @@
+Neste projeto, explorei técnicas essenciais para desenvolver interfaces dinâmicas e interativas, desde animações básicas até configurações avançadas, otimizando o workflow e elevando a experiência do usuário.
